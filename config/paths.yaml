@@ -1,0 +1,20 @@
+project_root: .
+
+configs:
+  root: config
+  paths: config/paths.yaml
+  simulation: config/simulation.yaml
+
+data:
+  root: data
+  raw: data/raw
+  cleaned: data/cleaned
+
+experiments:
+  root: experiments
+
+results:
+  root: results
+
+scripts:
+  root: scripts

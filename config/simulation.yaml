@@ -1,0 +1,7 @@
+baseline:
+  seed: 42
+  num_jobs: 1000
+  num_machines: 10
+  #min_campaign_length: 5
+  #max_campaign_length: 20
+  #horizon_length_days: 30
