@@ -1,0 +1,28 @@
+{
+  "data_schema": {
+    "name": "flow_shop_v1",
+    "version": "1.0",
+    "description": "Schema for samples simulated from a flow shop scheduling environment",
+    "fields": {
+      "sample_id": {
+        "type": "int",
+        "required": true,
+        "description": "Unique sample identifier"
+      },
+      "timestamp": {
+        "type": "float",
+        "units": "seconds",
+        "required": true
+      },
+      "features": {
+        "type": "array<float>",
+        "shape": [128],
+        "required": true
+      },
+      "label": {
+        "type": "int",
+        "allowed_values": [0, 1]
+      }
+    }
+  }
+}
