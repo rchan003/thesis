@@ -2,6 +2,11 @@
 
 Investigating the representational capacity of advanced time series models via data simulation.
 
+## Set Up
+
+1. Open terminal in project directory and enter: `make all` to create virtual environment and install all dependencies.
+2. Activate the virtual environement, named `.venv` as appropriate for your OS.
+
 ## TODO
 
 * Create `reproduce_all.sh` script
