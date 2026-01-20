@@ -1,6 +1,6 @@
 # Thesis
 
-Investigating the representational capacity of advanced time series models via data simulation.
+Investigating the representational capacity of advanced time series models via data simulation for complex production scheduling environments.
 
 ## Set Up
 
